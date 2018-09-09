@@ -8,6 +8,7 @@ Grabbing From http://viewdns.com
 <img src="2.png">
 
 chmod +x revip.sh
+
 ./revip.sh
 
 :)
